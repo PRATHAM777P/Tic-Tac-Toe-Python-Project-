@@ -10,4 +10,4 @@ if they enter anything else: tell them too go again
 check if the user_input is already taken
 add it to the board
 check if user won: checking rows, columns and diagonals
-toggle between users upon succesful moves
+toggle between users upon succesful moves.
