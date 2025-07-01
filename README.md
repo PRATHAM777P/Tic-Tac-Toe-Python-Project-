@@ -45,15 +45,6 @@ A modern, feature-rich Tic Tac Toe game in Python with both console and animated
 - `scoreboard.json` — Persistent scoreboard (auto-created)
 - `README.md` — This file
 
-## 🛡️ Security & Safety
-
-- **No sensitive data:**  
-  This project contains only game logic, UI, and a scoreboard file.  
-  There are no passwords, API keys, or personal data in the code.
-- **Safe to upload:**  
-  You can safely upload this project to GitHub.
-- **Best practice:**  
-  If you add any personal info, credentials, or external integrations in the future, use a `.gitignore` to exclude them.
 
 ## 🤝 Contributions
 
