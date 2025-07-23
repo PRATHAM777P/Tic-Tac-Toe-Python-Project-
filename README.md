@@ -23,13 +23,14 @@ A modern, feature-rich Tic Tac Toe game in Python with both console and animated
 
 ### 📸 Interface Preview
 
-<img width="635" height="855" alt="Interface" src="https://github.com/user-attachments/assets/7de658ca-6df2-401a-b9a7-7fb8579ab010" />
+<img width="300" height="300" alt="Interface" src="https://github.com/user-attachments/assets/7de658ca-6df2-401a-b9a7-7fb8579ab010" />
 
 
 ## 🖥️ How to Run
 
 1. **Install Python 3.7+**  
    [Download Python](https://www.python.org/downloads/)
+
 
 2. **Install tkinter (if not already installed):**  
    ```
